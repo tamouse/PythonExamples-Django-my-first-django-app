@@ -1,3 +1,4 @@
 py35/
 *.sqlite3
 __pycache__
+my_first_django/settings.py
